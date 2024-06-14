@@ -1,2 +1,2 @@
 # vbx1404.github.io
-Personal website. 
+My personal website configured with git using Jekyll static site generator. 
